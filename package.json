@@ -1,0 +1,24 @@
+{
+  "name": "gianluca",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianDago4/Gianluca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianDago4/Gianluca/issues"
+  },
+  "homepage": "https://github.com/GianDago4/Gianluca#readme",
+  "dependencies": {
+    "@types/node": "^18.8.0",
+    "gitignore": "^0.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
